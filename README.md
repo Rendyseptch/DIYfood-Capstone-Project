@@ -5,13 +5,13 @@
 - **Team Name:** C241-PS129 Team
 - **Project Title:** DIY FOOD
 - **Team Members:**
-    -(ML) M131D4KY2017– Rendy Septian Pradana – Politeknik Negeri Malang
-    -(ML) M227D4KX2112– Siti Isnaini – Universitas Jember
-    -(ML) M227D4KX1916– Uswatun Awwalul 'Azmi – Universitas Jember
-    -(CC) C131D4KY0136– Riza Afif Syamaidzar – Politeknik Negeri Malang
-    -(CC) C133D4KY1038– Muhammad Aji Pangestu – Politeknik Negeri Samarinda
-    -(MD) A131D4KY4354– Benaya Laskar Firdaus – Politeknik Negeri Malang
-    -(MD) A006D4KY4078– Alexander Wicaksana – Universitas Brawijaya
+    - (ML) M131D4KY2017– Rendy Septian Pradana – Politeknik Negeri Malang
+    - (ML) M227D4KX2112– Siti Isnaini – Universitas Jember
+    - (ML) M227D4KX1916– Uswatun Awwalul 'Azmi – Universitas Jember
+    - (CC) C131D4KY0136– Riza Afif Syamaidzar – Politeknik Negeri Malang
+    - (CC) C133D4KY1038– Muhammad Aji Pangestu – Politeknik Negeri Samarinda
+    - (MD) A131D4KY4354– Benaya Laskar Firdaus – Politeknik Negeri Malang
+    - (MD) A006D4KY4078– Alexander Wicaksana – Universitas Brawijaya
 
 ## Project Overview
 # Jogja Culinary Recomendations App ()
