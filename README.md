@@ -79,15 +79,12 @@ We believe that this app will not only meet the needs of tourists but also ensur
 
 ### Links & Resources
 
-- [Figma Design](#)  
-- [API Documentation](#)
-- [TensorFlow Model Code](#)
-- [Android Studio Code](#)
+- [Figma Design](#https://www.figma.com/design/UtUow36J6kJK41DsGPQr9a/DIYFOOD-DESIGN?node-id=0-1&t=wRypON113EUefyIj-1)  
+- [Project Brief](#https://docs.google.com/document/d/131Fwzk-NU_5qlSLwsECDehXhZcQbHkS5BABCEgCPlc8/edit )
+- [Documentation](#https://docs.google.com/presentation/d/1lFf14QO7wlh3kt8CfLjjG7eEnlsdl8Zupqa11eeghEM/edit?usp=sharing)
 
 ---
 
 
-https://docs.google.com/presentation/d/1lFf14QO7wlh3kt8CfLjjG7eEnlsdl8Zupqa11eeghEM/edit?usp=sharing
 
-Our Project Brief
-https://docs.google.com/document/d/131Fwzk-NU_5qlSLwsECDehXhZcQbHkS5BABCEgCPlc8/edit 
+
